@@ -8,7 +8,7 @@ API : https://airchains-testnet-api.corenode.info/
 GRPC : https://airchains-testnet-grpc.corenode.info/
 
 Silip kurucam diyenler
-NOt: avail servis oalrak çalışıor bişileri değiştirmemize tekrar kurmamıza gerek yok.
+Not: avail servis olarak çalışıor bişileri değiştirmemize tekrar kurmamıza gerek yok.
 ```
 systemctl stop evmosd
 systemctl stop tracksd
